@@ -5,7 +5,7 @@ void FindAbs (int *pnum)
 
 {(if (*pnum < 0)
 
-/*Address received by a pointer/
+/*Address received by a pointer*/
 
 *pnum= *pnum (-1): /*Value accessed thru pointer */
 }
@@ -18,7 +18,7 @@ printf("\nEnter value: ");
 scanf("d", &x);
 FindAbs (4x):
 
-/*Address of variable x passed /
+/*Address of variable x passed */
 
 printf("\nThe required absolute value is d", x);
 }
