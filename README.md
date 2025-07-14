@@ -42,3 +42,10 @@ This repository contains notes, lab work, personal practice code, pyq's, impleme
 
 ---
 
+## License
+
+This repository is intended for educational purposes only. All content is original unless stated otherwise. Please do not redistribute official university materials without permission.
+
+---
+
+> **Disclaimer:** This repository is a personal academic archive and is not officially affiliated with Amity University. All shared content is for learning and revision purposes only.
