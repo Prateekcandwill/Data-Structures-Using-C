@@ -6,7 +6,7 @@
 - **Course Code:** CSIT124
 - **Credit Units:** 4
 - **Course Level:** Undergraduate (UG)
-- **Faculty:** To be updated later on
+- **Faculty:** Dr Nilanjana Dutta Roy
 - **Semester:** 3
 ---
 
